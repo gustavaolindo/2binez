@@ -6,3 +6,13 @@ body{
   text-align: center;
   text-shadow: 2px 2px 2px white;
 }
+div{
+  background-image: url(macaco.jpeg);
+  background-size:55px;
+  background-color: red;
+  width:300px;
+  margin:auto;
+  text-shadow: 2px 2px black;
+  color: white;
+  box-shadow: 5px 5px 5px black;
+}
